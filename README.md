@@ -1,2 +1,3 @@
 # HouseController
-Projeto de uma casa controlada por um aparelho celular 
+## Images
+![imagens da tela do aplicativo](https://github.com/Eduardo-LP/HouseController/blob/master/images/houseCotroller.png)
